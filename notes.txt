@@ -1,0 +1,11 @@
+Alumne,Programació,Bases_de_dades,Llenguatges_de_marques,Sistemes_informàtics,Desenvolupament_d'interfícies,Machine Learning,Projecte
+Anna,8.5,7.0,9.0,8.0,7.5,9.0,8.5
+Marc,6.5,8.0,7.0,7.5,8.0,7.0,7.5
+Jordi,7.0,6.5,6.0,8.0,7.5,8.5,7.0
+Laia,9.0,8.5,9.5,8.0,9.0,9.0,9.5
+Carla,7.5,7.0,8.0,7.0,7.0,7.5,7.5
+Pau,8.0,8.0,7.5,7.5,8.5,8.0,8.0
+Núria,9.5,8.5,8.0,9.0,9.5,8.0,9.0
+Alex,6.0,6.5,7.0,6.5,6.0,6.0,6.5
+Marta,8.0,9.0,8.5,8.5,8.0,8.5,9.0
+Joel,7.0,7.0,6.5,7.5,7.5,7.0,7.0
